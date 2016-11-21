@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /SaaSUI.war
+  - source: /index.html
     destination: /usr/share/tomcat8/webapps/
